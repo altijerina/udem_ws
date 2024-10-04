@@ -1,0 +1,13 @@
+{
+  "package_name": "my_robot_interfaces",
+  "non_idl_tuples": [
+    "/home/albert/udem_ws/src/my_robot_interfaces:msg/HardwareStatus.msg",
+    "/home/albert/udem_ws/src/my_robot_interfaces:msg/LedStateArray.msg",
+    "/home/albert/udem_ws/src/my_robot_interfaces:msg/Turtle.msg",
+    "/home/albert/udem_ws/src/my_robot_interfaces:msg/TurtleArray.msg",
+    "/home/albert/udem_ws/src/my_robot_interfaces:srv/ComputeRectangleArea.srv",
+    "/home/albert/udem_ws/src/my_robot_interfaces:srv/SetLed.srv",
+    "/home/albert/udem_ws/src/my_robot_interfaces:srv/CatchTurtle.srv",
+    "/home/albert/udem_ws/src/my_robot_interfaces:action/CountUntil.action"
+  ]
+}

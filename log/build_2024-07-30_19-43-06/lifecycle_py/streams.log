@@ -1,0 +1,37 @@
+[0.994s] Invoking command in '/home/albert/udem_ws/src/lifecycle_py': PYTHONPATH=/home/albert/udem_ws/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/albert/udem_ws/install/lifecycle_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lifecycle_py build --build-base /home/albert/udem_ws/build/lifecycle_py/build install --record /home/albert/udem_ws/build/lifecycle_py/install.log --single-version-externally-managed install_data
+[1.355s] running egg_info
+[1.355s] creating ../../build/lifecycle_py/lifecycle_py.egg-info
+[1.355s] writing ../../build/lifecycle_py/lifecycle_py.egg-info/PKG-INFO
+[1.355s] writing dependency_links to ../../build/lifecycle_py/lifecycle_py.egg-info/dependency_links.txt
+[1.355s] writing entry points to ../../build/lifecycle_py/lifecycle_py.egg-info/entry_points.txt
+[1.356s] writing requirements to ../../build/lifecycle_py/lifecycle_py.egg-info/requires.txt
+[1.356s] writing top-level names to ../../build/lifecycle_py/lifecycle_py.egg-info/top_level.txt
+[1.356s] writing manifest file '../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.357s] reading manifest file '../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.358s] writing manifest file '../../build/lifecycle_py/lifecycle_py.egg-info/SOURCES.txt'
+[1.359s] running build
+[1.359s] running build_py
+[1.359s] creating /home/albert/udem_ws/build/lifecycle_py/build
+[1.359s] creating /home/albert/udem_ws/build/lifecycle_py/build/lib
+[1.359s] creating /home/albert/udem_ws/build/lifecycle_py/build/lib/lifecycle_py
+[1.359s] copying lifecycle_py/__init__.py -> /home/albert/udem_ws/build/lifecycle_py/build/lib/lifecycle_py
+[1.359s] copying lifecycle_py/number_publisher.py -> /home/albert/udem_ws/build/lifecycle_py/build/lib/lifecycle_py
+[1.359s] running install
+[1.360s] running install_lib
+[1.361s] creating /home/albert/udem_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.361s] copying /home/albert/udem_ws/build/lifecycle_py/build/lib/lifecycle_py/__init__.py -> /home/albert/udem_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.361s] copying /home/albert/udem_ws/build/lifecycle_py/build/lib/lifecycle_py/number_publisher.py -> /home/albert/udem_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py
+[1.362s] byte-compiling /home/albert/udem_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py/__init__.py to __init__.cpython-310.pyc
+[1.362s] byte-compiling /home/albert/udem_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py/number_publisher.py to number_publisher.cpython-310.pyc
+[1.362s] running install_data
+[1.363s] creating /home/albert/udem_ws/install/lifecycle_py/share/ament_index
+[1.363s] creating /home/albert/udem_ws/install/lifecycle_py/share/ament_index/resource_index
+[1.363s] creating /home/albert/udem_ws/install/lifecycle_py/share/ament_index/resource_index/packages
+[1.363s] copying resource/lifecycle_py -> /home/albert/udem_ws/install/lifecycle_py/share/ament_index/resource_index/packages
+[1.363s] copying package.xml -> /home/albert/udem_ws/install/lifecycle_py/share/lifecycle_py
+[1.363s] running install_egg_info
+[1.365s] Copying ../../build/lifecycle_py/lifecycle_py.egg-info to /home/albert/udem_ws/install/lifecycle_py/lib/python3.10/site-packages/lifecycle_py-0.0.0-py3.10.egg-info
+[1.366s] running install_scripts
+[1.387s] Installing number_publisher script to /home/albert/udem_ws/install/lifecycle_py/lib/lifecycle_py
+[1.388s] writing list of installed files to '/home/albert/udem_ws/build/lifecycle_py/install.log'
+[1.414s] Invoked command in '/home/albert/udem_ws/src/lifecycle_py' returned '0': PYTHONPATH=/home/albert/udem_ws/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/albert/udem_ws/install/lifecycle_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lifecycle_py build --build-base /home/albert/udem_ws/build/lifecycle_py/build install --record /home/albert/udem_ws/build/lifecycle_py/install.log --single-version-externally-managed install_data
